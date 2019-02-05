@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-koa-mongo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azat-co/rest-api-koa-mongo.git"
+  },
+  "keywords": [],
+  "author": "Azat Mardan (http://azat.co/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azat-co/rest-api-koa-mongo/issues"
+  },
+  "homepage": "https://github.com/azat-co/rest-api-koa-mongo#readme"
+}
